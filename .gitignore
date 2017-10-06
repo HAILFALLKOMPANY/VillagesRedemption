@@ -1,0 +1,59 @@
+#Project regereratable folders
+Intermediate
+Saved/*
+!/Saved/Config/
+/Saved/Config/*
+!/Saved/Config/Windows/
+Build
+Binaries
+
+Plugins/Marketplace
+Plugins/VictoryPlugin
+
+
+DerivedDataCache
+.vs
+
+#Asset from Marketplace (not intend to modify)
+
+Content/AnimStarterPack
+Content/BattlegroundsScore01
+Content/BeachShader
+Content/DangerousHorizon
+Content/LandscapeAutoMaterial
+Content/ProSoundCollection
+Content/ProSoundCollectionMONO
+Content/UltraDynamicSky
+Content/Explosions
+Content/BONUSCombatMusicTracks
+Content/ProSoundCollection_v1_3
+Content/ProSoundCollection_v1_3_MONO
+Content/Spline-RopesHosesCables
+Content/Freebie_01
+
+#Test Folder
+Content/TestFolder
+
+#from MegaGameMusicCollection sub-folder
+Content/ActionGameSoundtrack
+Content/ActionTrailerMusicPack
+Content/AdventureGameMusicPack
+Content/BattleMusicPack
+Content/CasualGameMusicPack
+Content/EnergyHardRockMusicPack
+Content/EpicTrailerMusicPack
+Content/MedievalMusicPack
+Content/MysticalGameMusicPack
+Content/SpaceAdventureMusicPack
+--How_To_Setup_Automatic_Guns_Sounds--.pdf
+--General_Info_and_How_To_Use--.pdf
+Villages.sln
+Villages.sdf
+Villages.VC.opendb
+
+*.db
+*.opendb
+Content/A/TestMap.umap
+Content/A/TestMap_BuiltData.uasset
+ProSoundCollectionV3.png
+Gamemaster Audio - Pro Sound Collection v1.3 - 16bit 48k.zip
