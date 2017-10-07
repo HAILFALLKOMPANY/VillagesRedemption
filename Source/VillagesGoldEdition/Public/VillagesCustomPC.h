@@ -13,8 +13,10 @@ UCLASS()
 class VILLAGESGOLDEDITION_API AVillagesCustomPC : public APlayerController
 {
 	GENERATED_BODY()
-	
-	
-	
+
+public:
+
+		UFUNCTION(BlueprintImplementableEvent)
+		void PawnLeavingGame() override;
 	
 };
